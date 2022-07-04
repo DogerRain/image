@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T10:03:06.192Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_IvP2TZQMhQVB-gl9PiU" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T10:35:54.651Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WbeeXK8JT37XSSkCG4zh" version="20.0.4" type="github">
   <diagram id="xZSvA7O0f5KL_OnYw_Wv" name="第 1 页">
-    <mxGraphModel dx="1067" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u5pxqeu4F6Zy0dVIA1zh-12" value="https://api.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="519" y="605" width="110" height="30" as="geometry" />
+          <mxGeometry x="505" y="605" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u5pxqeu4F6Zy0dVIA1zh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u5pxqeu4F6Zy0dVIA1zh-13" target="u5pxqeu4F6Zy0dVIA1zh-17">
           <mxGeometry relative="1" as="geometry" />
@@ -150,6 +150,9 @@
         </mxCell>
         <mxCell id="u5pxqeu4F6Zy0dVIA1zh-37" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="549" y="1270" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-48" value="手动切DNS还是有缓存，且无法控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="725" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
