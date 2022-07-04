@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:56:11.873Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zpRNinZreR_vaE91q_h9" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T09:57:40.791Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NhUm3ClpHalZHNCM-Dd-" version="20.0.4" type="github">
   <diagram id="xZSvA7O0f5KL_OnYw_Wv" name="第 1 页">
     <mxGraphModel dx="1067" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="u5pxqeu4F6Zy0dVIA1zh-28" value="华南流量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="795" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-29" value="自定义规则：如 区域、IP、IDC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="725" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
