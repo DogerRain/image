@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:57:40.791Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NhUm3ClpHalZHNCM-Dd-" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T10:03:06.192Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_IvP2TZQMhQVB-gl9PiU" version="20.0.4" type="github">
   <diagram id="xZSvA7O0f5KL_OnYw_Wv" name="第 1 页">
     <mxGraphModel dx="1067" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,16 @@
         <mxCell id="u5pxqeu4F6Zy0dVIA1zh-6" value="广州机房LVS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-9" value="中山机房LVS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u5pxqeu4F6Zy0dVIA1zh-9" target="u5pxqeu4F6Zy0dVIA1zh-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u5pxqeu4F6Zy0dVIA1zh-9" target="u5pxqeu4F6Zy0dVIA1zh-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u5pxqeu4F6Zy0dVIA1zh-9" target="u5pxqeu4F6Zy0dVIA1zh-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-9" value="北京机房LVS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u5pxqeu4F6Zy0dVIA1zh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u5pxqeu4F6Zy0dVIA1zh-1" target="u5pxqeu4F6Zy0dVIA1zh-6">
@@ -117,6 +126,30 @@
         </mxCell>
         <mxCell id="u5pxqeu4F6Zy0dVIA1zh-29" value="自定义规则：如 区域、IP、IDC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="725" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-30" value="华北流量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="795" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u5pxqeu4F6Zy0dVIA1zh-32" target="u5pxqeu4F6Zy0dVIA1zh-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-32" value="集群1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1010" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u5pxqeu4F6Zy0dVIA1zh-34" target="u5pxqeu4F6Zy0dVIA1zh-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-34" value="集群2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1010" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-35" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="549" y="1130" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-36" value="ZK" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="549" y="1200" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u5pxqeu4F6Zy0dVIA1zh-37" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="549" y="1270" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
